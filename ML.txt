@@ -1,0 +1,9 @@
+192.168.31.62
+
+nox_adb.exe connect 127.0.0.1:62001
+
+AppID(–°≥Ã–ÚID)	wx2375bf7716f6d7e0
+ZH:2386865867@qq.com
+MM:GOOD123good
+
+ps -ef |grep redis
